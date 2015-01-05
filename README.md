@@ -6,7 +6,7 @@ Projects
 =========
 1.Laptop Battery Life 
 
-Linear Regression Model implemented using **Scipy** with **Pandas** package.
+*Linear Regression Model implemented using _SciPy_ with _Pandas_ package.
 
 Training data (each row)consists of the amount of time the laptop was charged and amount of time the battery lasted.
 
