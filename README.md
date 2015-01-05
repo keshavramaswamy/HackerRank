@@ -5,8 +5,7 @@ Contains a list of Machine Learning,NLP projects I have worked on Hacker Rank.
 Projects
 =========
 1.Laptop Battery Life 
-
---*Linear Regression Model implemented using _SciPy_ with _Pandas_ package.
+	--*Linear Regression Model implemented using __SciPy__ with __Pandas__ package.
 
 Training data (each row)consists of the amount of time the laptop was charged and amount of time the battery lasted.
 
