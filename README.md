@@ -6,7 +6,7 @@ Projects
 =========
 1.Laptop Battery Life 
 
-*Linear Regression Model implemented using Scipy with Pandas package.
+*Linear Regression Model implemented using **Scipy** with **Pandas** package.
 
 *Training data (each row)consists of the amount of time the laptop was charged and amount of time the battery lasted.
 
@@ -17,7 +17,7 @@ Projects
 
 2.House Prices Prediction
 
-*Multivariate Linear Regression Model implemented using scikit learn with Pandas package.
+*Multivariate Linear Regression Model implemented using **Scikit-learn** with Pandas package.
 
 *Training data (each row) consists of a list of features of the house followed by the house price.
 
